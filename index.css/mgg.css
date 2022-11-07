@@ -1,0 +1,56 @@
+.header{
+    margin: 5px 30 auto;
+}
+
+.container{
+    text-align: center;
+    margin: 60px;
+}
+
+.section_grow{
+    background-color: grey;
+}
+
+.container_flex{
+    display: flex;
+    align-items: center;
+}
+
+.flex{
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-right: 40px;
+    margin-bottom: 50px;
+    max-width: 200;
+}
+
+.flex_text{
+    text-align: center;
+    justify-content: space-between;
+    margin-left: 50px;
+    margin-right: 40px;
+}
+
+.commerce_pretittle{
+    font-weight: 700;
+    font-size:19px;
+    margin: 90px 50px 60px 70px;
+    text-align: center;
+    align-items: flex-end;
+}
+
+.container_ground{
+    align-items: flex-end;
+    justify-content: space-between;
+    margin-left: 280px;
+    max-width: 245;
+}
+
+.container_ground_1{
+    align-items: flex-start;
+    margin-left: 285px;
+    justify-content: space-between;
+    max-width: 260;
+}
+
+
